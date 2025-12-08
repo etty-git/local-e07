@@ -8,6 +8,6 @@ return "10"
 
 }
 const ac=()=>{
-confirm.console.log("try pool");
+console.log("test pool request");
 
 }
